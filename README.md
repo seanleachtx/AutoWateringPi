@@ -12,3 +12,4 @@ Allow functionality to open solenoid valve for a predetermined period of time fo
 
 Lofty Goals:
 Apply machine learning in conjunction with data analytics to determine the period of time in which to water dynamically over time to maximize growth.
+ 
